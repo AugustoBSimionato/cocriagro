@@ -1,7 +1,6 @@
-# cocriagro
-My second project done as a developer at Unect Jr
+# Cocriagro
 
 ## About this project:
-It's a simple landing page created for cocriagro
+It's a simple landing page created for cocriagro, to integrate on their website.
 
-Link: https://augustobsimionato.github.io/cocriagro/
+Link project: https://augustobsimionato.github.io/cocriagro/
